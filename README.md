@@ -26,9 +26,9 @@ Some functions were duplicated when their functionality could have been encapsul
 
 ## Assignment 2
 
-The objective was to build upon the previous assignment and write three programs (one hub and two players) to participate in a Battleships tournament using pipes and forks. 
-
 ### Description
+
+The objective was to build upon the previous assignment and write three programs (one hub and two players) to participate in a Battleships tournament using pipes and forks. 
 
 Received 40.83/42 (97.21%) for functionality.
 
@@ -44,9 +44,9 @@ It would have been a better idea to return defined enums to signal function succ
 
 ## Assignment 3
 
-The objective was to build a simple server and client to allow for arbitary numbers of clients to play Rock Paper Scissors using the server as a matchmaker. This was achieved using multithreading and socket programming. 
-
 ### Description
+
+The objective was to build a simple server and client to allow for arbitary numbers of clients to play Rock Paper Scissors using the server as a matchmaker. This was achieved using multithreading and socket programming. 
 
 Received 42/42 (100%) for functionality.
 
