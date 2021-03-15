@@ -53,4 +53,5 @@ Received 42/42 (100%) for functionality.
 ### How I would improve this assignment
 
 * Memory management
+* 
 Some of the memory in these programs was not manually freed; this did not affect the functionality of the program as the program was run on an OS capable of reclaiming memory, but it would have been much better practice to free all memory that was allocated.
