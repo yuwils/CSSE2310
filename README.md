@@ -1,4 +1,4 @@
-# CSSE2310 Semester Two 2021 Assignments
+# CSSE2310 Semester Two 2020 Assignments
 
 My C assignments written for the University of Queensland course CSSE2310 (Computer Systems and Programming) and some reflections on how I could have better
 completed them in hindsight. 
